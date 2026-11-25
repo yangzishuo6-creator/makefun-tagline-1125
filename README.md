@@ -1,0 +1,1 @@
+This is an entry for **One Line, One Week: The make.fun Tagline**. Run `MAKEFUN_OUTPUT=... python3 main.py` with Python 3.13, replacing `...` with the output path. The script writes the tagline and prints its character count.
