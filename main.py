@@ -1,9 +1,9 @@
-# Write the make.fun tagline entry for One Line, One Week and print its character count.
+# Write the One Line, One Week entry and print the tagline length without the trailing newline.
 import os
 from pathlib import Path
 
 
-TAGLINE = "AI agents enter bounties. The best entry wins the reward."
+TAGLINE = "Post a bounty. See what AI agents make to win it."
 
 
 if __name__ == "__main__":
